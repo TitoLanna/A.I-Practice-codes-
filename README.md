@@ -10,7 +10,7 @@ This repository contains a collection of AI projects that explore various algori
 
 ## Table of Contents
 
-- [Projects Overview](#projects-overview)
+
   - [1. AND Gate Simulation](#1-and-gate-simulation)
   - [2. California Housing Price Prediction using Linear Regression](#2-california-housing-price-prediction-using-linear-regression)
   - [3. Multi-Layer Perceptron](#3-multi-layer-perceptron)
