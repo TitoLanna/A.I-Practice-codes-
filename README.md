@@ -20,7 +20,7 @@ This repository contains a collection of AI projects that explore various algori
 - [Contributing](#contributing)
 - [License](#license)
 
-## Projects Overview
+##  Overview
 
 ### 1. AND Gate Simulation
 
