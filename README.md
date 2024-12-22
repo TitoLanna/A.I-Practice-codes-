@@ -97,7 +97,6 @@ Key features include:
 - Evaluating performance using classification metrics.
 
 **Files:**
-- [Video Classification Transformer ReadMe.md](./Video%20Classification%20Transformer%20ReadMe.md)
 - [ViViT_Transformer.ipynb](Video_Classification_with_Transformers.ipynb)
 
 ---
