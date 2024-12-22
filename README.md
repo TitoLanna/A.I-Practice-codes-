@@ -68,6 +68,21 @@ This project focuses on the implementation of a single-layer perceptron for bina
 - [The Perceptron Readme.md](./The%20Perceptron%20Readme.md)
 - [The Perceptron (DL).ipynb](./The%20Perceptron%20(DL).ipynb)
 
+### 5. The VGG16 Model
+
+This project implements the VGG16 convolutional neural network architecture, a deep learning model widely used for image classification tasks. The implementation follows the original VGG16 paper, comprising 13 convolutional layers and 3 fully connected layers.
+
+Key features of the project include:
+
+- Implementation of convolutional blocks with ReLU activations.
+- Pooling layers to reduce the spatial dimensions of the feature maps.
+- Fully connected layers for feature extraction and classification.
+- Support for customizing the number of classes in the output.
+
+**Files:**
+- [VGG16 Implementation](./VGG16_Model_1.ipynb)
+
+
 ## Installation
 
 To run these projects, clone the repository and install the required dependencies:
