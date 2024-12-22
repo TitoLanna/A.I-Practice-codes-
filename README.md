@@ -81,7 +81,7 @@ Key features of the project include:
 - Support for customizing the number of classes in the output.
 
 **Files:**
-- [VGG16 Implementation](./VGG16_Model_1.ipynb)
+- [VGG16 Implementation](VGG16_model_1.ipynb)
 
 ---
 
@@ -98,7 +98,7 @@ Key features include:
 
 **Files:**
 - [Video Classification Transformer ReadMe.md](./Video%20Classification%20Transformer%20ReadMe.md)
-- [ViViT_Transformer.ipynb](./ViViT_Transformer.ipynb)
+- [ViViT_Transformer.ipynb](Video_Classification_with_Transformers.ipynb)
 
 ---
 
