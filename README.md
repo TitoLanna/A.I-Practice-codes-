@@ -15,6 +15,7 @@ This repository contains a collection of AI projects that explore various algori
   - [2. California Housing Price Prediction using Linear Regression](#2-california-housing-price-prediction-using-linear-regression)
   - [3. Multi-Layer Perceptron](#3-multi-layer-perceptron)
   - [4. The Perceptron](#4-the-perceptron)
+  - [5. The VGG16 model ](#5-the-VGG16_model_1)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
